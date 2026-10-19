@@ -1,0 +1,13 @@
+{
+    "name": "smartpark/smart-parking-system",
+    "description": "Real-Time Smart Parking System",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "phpmailer/phpmailer": "^6.9",
+        "endroid/qr-code": "^5.0"
+    },
+    "autoload": {
+        "files": ["includes/functions.php"]
+    }
+}

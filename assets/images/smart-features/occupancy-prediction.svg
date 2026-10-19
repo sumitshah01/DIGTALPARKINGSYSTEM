@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">Parking occupancy and demand prediction chart</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1eafe"/><stop offset="1" stop-color="#f8f4fc"/></linearGradient></defs>
+  <rect width="600" height="320" fill="url(#bg)"/>
+  <rect x="79" y="40" width="442" height="239" rx="23" fill="#fff"/>
+  <path d="M126 222h358M126 180h358M126 138h358M126 96h358" stroke="#ebe6f0" stroke-width="2"/>
+  <path d="M126 238V81" stroke="#b9afc4" stroke-width="3"/>
+  <rect x="154" y="178" width="37" height="60" rx="8" fill="#b7e1d8"/>
+  <rect x="214" y="149" width="37" height="89" rx="8" fill="#8fcfc1"/>
+  <rect x="274" y="123" width="37" height="115" rx="8" fill="#56b9aa"/>
+  <rect x="334" y="96" width="37" height="142" rx="8" fill="#167b72"/>
+  <rect x="394" y="116" width="37" height="122" rx="8" fill="#8a77b7" opacity=".76"/>
+  <rect x="454" y="151" width="25" height="87" rx="8" fill="#8a77b7" opacity=".48"/>
+  <path d="m171 162 61-35 60-23 60-29 60 17 59 37" fill="none" stroke="#f0a849" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 8"/>
+  <circle cx="352" cy="75" r="8" fill="#f0a849"/>
+  <rect x="389" y="53" width="99" height="34" rx="17" fill="#fff2db"/>
+  <path d="m405 68 5 5 9-11" fill="none" stroke="#d8902f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M420 70h53" stroke="#b57c29" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="121" cy="261" r="6" fill="#a69ab0"/><circle cx="184" cy="261" r="6" fill="#a69ab0"/><circle cx="245" cy="261" r="6" fill="#a69ab0"/><circle cx="306" cy="261" r="6" fill="#a69ab0"/>
+</svg>

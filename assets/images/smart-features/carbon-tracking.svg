@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">Lower emissions and personal carbon tracking</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e1f3e6"/><stop offset="1" stop-color="#f1f8ed"/></linearGradient></defs>
+  <rect width="600" height="320" fill="url(#bg)"/>
+  <circle cx="300" cy="165" r="114" fill="#fff" opacity=".72"/>
+  <path d="M98 234c34-59 73-88 119-88M502 234c-34-59-73-88-119-88" fill="none" stroke="#9fd2b1" stroke-width="5" stroke-linecap="round" stroke-dasharray="4 13"/>
+  <path d="M298 223c-49-32-55-91-1-143 57 35 61 89 1 143Z" fill="#56a979"/>
+  <path d="M299 211c-1-48 1-81 4-113" fill="none" stroke="#e6f5e8" stroke-width="5" stroke-linecap="round"/>
+  <path d="m300 171-21-21m23 2 19-20m-21 52-20-17" fill="none" stroke="#e6f5e8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M202 233h196l-17-38c-5-12-14-18-27-18h-97c-13 0-22 7-28 18l-27 38Z" fill="#167b72"/>
+  <path d="M235 204c5-10 12-14 22-14h35v27h-65Zm67-14h48c9 0 15 5 19 14l5 13h-72Z" fill="#d9f0e7"/>
+  <rect x="196" y="228" width="207" height="16" rx="8" fill="#105e58"/>
+  <circle cx="243" cy="244" r="18" fill="#263a3d"/><circle cx="243" cy="244" r="8" fill="#dbe8e2"/>
+  <circle cx="357" cy="244" r="18" fill="#263a3d"/><circle cx="357" cy="244" r="8" fill="#dbe8e2"/>
+  <circle cx="111" cy="89" r="36" fill="#fff"/>
+  <path d="M111 67c-17 12-17 32 0 45 18-12 18-32 0-45Z" fill="#68b880"/>
+  <path d="M111 103V78m0 13-9-9m9 18 9-10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <rect x="432" y="70" width="97" height="68" rx="16" fill="#fff"/>
+  <path d="M451 113V96m17 17V86m17 27V77m17 36V99" stroke="#56a979" stroke-width="9" stroke-linecap="round"/>
+  <path d="M449 125h69" stroke="#c7ddcb" stroke-width="4" stroke-linecap="round"/>
+</svg>

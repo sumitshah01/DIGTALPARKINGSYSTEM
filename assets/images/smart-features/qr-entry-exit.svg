@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">QR code parking entry gate</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4f1fb"/><stop offset="1" stop-color="#eff7fb"/></linearGradient></defs>
+  <rect width="600" height="320" fill="url(#bg)"/>
+  <path d="M0 247h600" stroke="#c9dce7" stroke-width="4"/>
+  <path d="M52 248h495" stroke="#fff" stroke-width="10" stroke-dasharray="40 24"/>
+  <rect x="405" y="73" width="47" height="177" rx="9" fill="#fff" stroke="#c9dce7" stroke-width="4"/>
+  <rect x="416" y="91" width="25" height="25" rx="6" fill="#167b72"/>
+  <circle cx="429" cy="225" r="6" fill="#56b9aa"/>
+  <path d="M429 132 202 83" stroke="#cf5260" stroke-width="17" stroke-linecap="round"/>
+  <circle cx="429" cy="132" r="14" fill="#cf5260"/>
+  <rect x="149" y="58" width="113" height="208" rx="22" fill="#263a3d"/>
+  <rect x="158" y="76" width="95" height="172" rx="15" fill="#fff"/>
+  <rect x="188" y="64" width="35" height="5" rx="3" fill="#829396"/>
+  <rect x="176" y="101" width="60" height="60" rx="4" fill="#e5f4f0"/>
+  <path d="M181 106h18v18h-18zM213 106h18v18h-18zM181 138h18v18h-18z" fill="#167b72"/>
+  <path d="M204 106h6v6h-6zM204 120h6v6h-6zM213 129h7v7h-7zM224 130h7v7h-7zM204 140h7v7h-7zM223 146h8v8h-8z" fill="#105e58"/>
+  <path d="M176 178h58M176 191h45" stroke="#c4d6d1" stroke-width="6" stroke-linecap="round"/>
+  <rect x="175" y="210" width="61" height="21" rx="10" fill="#dff3ed"/>
+  <path d="M188 220h35" stroke="#167b72" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="327" cy="216" r="37" fill="#fff"/>
+  <path d="M308 216h38m-15-15 15 15-15 15" fill="none" stroke="#167b72" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">AI parking recommendation map</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9f3eb"/><stop offset="1" stop-color="#eff8f5"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#15564e" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="600" height="320" fill="url(#bg)"/>
+  <path d="M-20 242 620 66M-15 98l630 176" stroke="#fff" stroke-width="38"/>
+  <path d="M-20 242 620 66M-15 98l630 176" stroke="#b6d7cc" stroke-width="2" stroke-dasharray="8 12"/>
+  <path d="M107 0 245 320M453 0 347 320" stroke="#fff" stroke-width="30"/>
+  <path d="M107 0 245 320M453 0 347 320" stroke="#b6d7cc" stroke-width="2" stroke-dasharray="8 12"/>
+  <rect x="38" y="35" width="123" height="66" rx="15" fill="#fff" opacity=".8"/>
+  <rect x="420" y="221" width="142" height="60" rx="15" fill="#fff" opacity=".8"/>
+  <circle cx="209" cy="159" r="61" fill="#167b72" opacity=".12"/>
+  <path d="M209 119c-23 0-41 18-41 41 0 30 41 66 41 66s41-36 41-66c0-23-18-41-41-41Z" fill="#167b72" filter="url(#shadow)"/>
+  <circle cx="209" cy="160" r="14" fill="#fff"/>
+  <rect x="281" y="125" width="120" height="74" rx="18" fill="#fff" filter="url(#shadow)"/>
+  <circle cx="309" cy="162" r="15" fill="#d8f1ea"/>
+  <path d="m302 162 5 5 10-12" fill="none" stroke="#167b72" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M335 153h47M335 169h34" stroke="#8ba9a0" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="477" cy="112" r="23" fill="#f7c873"/>
+  <path d="M470 112h14M477 105v14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="106" cy="250" r="13" fill="#56b9aa"/>
+  <circle cx="106" cy="250" r="5" fill="#fff"/>
+</svg>

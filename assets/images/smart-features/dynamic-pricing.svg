@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">Dynamic parking price based on demand</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0dd"/><stop offset="1" stop-color="#fff8ef"/></linearGradient></defs>
+  <rect width="600" height="320" fill="url(#bg)"/>
+  <circle cx="300" cy="165" r="111" fill="#fff" opacity=".8"/>
+  <path d="M203 193a102 102 0 0 1 194 0" fill="none" stroke="#f2d8b9" stroke-width="22" stroke-linecap="round"/>
+  <path d="M203 193a102 102 0 0 1 135-95" fill="none" stroke="#e5a344" stroke-width="22" stroke-linecap="round"/>
+  <path d="m300 184 58-61" stroke="#263a3d" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="300" cy="184" r="13" fill="#167b72"/>
+  <text x="300" y="240" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#263a3d">$</text>
+  <rect x="77" y="91" width="122" height="82" rx="17" fill="#fff"/>
+  <circle cx="105" cy="119" r="12" fill="#dff3ed"/>
+  <path d="m100 119 4 4 7-9" fill="none" stroke="#167b72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 116h49M97 146h80" stroke="#a8bab5" stroke-width="7" stroke-linecap="round"/>
+  <rect x="401" y="159" width="125" height="86" rx="17" fill="#fff"/>
+  <path d="M422 218v-17h15v17m8 0v-31h15v31m8 0v-45h15v45" fill="#56b9aa"/>
+  <path d="m419 190 23-13 20 4 21-21" fill="none" stroke="#d8902f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m477 160 7-1-1 8" fill="none" stroke="#d8902f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="302" cy="58" r="14" fill="#56b9aa"/><path d="M302 50v16m-5-12h8a4 4 0 0 1 0 8h-6" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
